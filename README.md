@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection
+# Credit-Card-Fraud-Detection-Analysis
 Credit card fraud detection using python, Data Analysis and Power BI Dashboard
 
 # Project Overview
