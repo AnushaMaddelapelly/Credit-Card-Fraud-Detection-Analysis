@@ -7,12 +7,12 @@ This project is about analyzing credit card transactions to find fraudulent acti
 To explore transaction data, identify patterns in fraud cases, and build an interactive dashboard for better understanding using Python and Power BI.
 
 # Dataset
-The dataset contains credit card transactions made by European cardholders.
-Features are anonymized (V1–V28 using PCA transformation)
-Target column:
-0 - Normal transaction
-1 - Fraud transaction
-Dataset is highly imbalanced
+- The dataset contains credit card transactions made by European cardholders.
+- Features are anonymized (V1–V28 using PCA transformation)
+- Target column:
+- 0 - Normal transaction
+- 1 - Fraud transaction
+- Dataset is highly imbalanced
 
 Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 # Tools Used
