@@ -16,11 +16,11 @@ To explore transaction data, identify patterns in fraud cases, and build an inte
 
 Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 # Tools Used
-* Python
-* Pandas, NumPy
-* Matplotlib, Seaborn
-* Jupyter Notebook
-* Power BI
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Jupyter Notebook
+- Power BI
 # Project Steps
 - Loaded and explored the dataset
 - Performed data analysis and visualization
