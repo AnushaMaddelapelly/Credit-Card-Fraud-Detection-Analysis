@@ -16,27 +16,27 @@ To explore transaction data, identify patterns in fraud cases, and build an inte
 
 Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 # Tools Used
-Python
-Pandas, NumPy
-Matplotlib, Seaborn
-Jupyter Notebook
-Power BI
+* Python
+* Pandas, NumPy
+* Matplotlib, Seaborn
+* Jupyter Notebook
+* Power BI
 # Project Steps
-Loaded and explored the dataset
-Performed data analysis and visualization
-Checked fraud vs normal transaction patterns
-Scaled and prepared data for analysis
-Built an interactive Power BI dashboard
+- Loaded and explored the dataset
+- Performed data analysis and visualization
+- Checked fraud vs normal transaction patterns
+- Scaled and prepared data for analysis
+- Built an interactive Power BI dashboard
 # Key Insights
-Fraud cases are very rare compared to normal transactions
-Data is highly imbalanced
-Fraud transactions show different patterns in amount and behavior
-Visualization helps in understanding hidden trends clearly
+- Fraud cases are very rare compared to normal transactions
+- Data is highly imbalanced
+- Fraud transactions show different patterns in amount and behavior
+- Visualization helps in understanding hidden trends clearly
 # Power BI Dashboard
-Created an interactive dashboard to track:
-Total transactions
-Fraud transactions
-Fraud rate
-Transaction distribution
-Amount analysis
-Filters for better exploration
+- Created an interactive dashboard to track:
+- Total transactions
+- Fraud transactions
+- Fraud rate
+- Transaction distribution
+- Amount analysis
+- Filters for better exploration
